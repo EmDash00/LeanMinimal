@@ -4,14 +4,6 @@
 # [plugins]
 # nvim-treesitter = "semver_version"  # e.g. "1.0.0"
 
-# List of non-Neovim rocks.
-# This includes things like `toml` or other lua packages.
-[rocks]
-magick = "1.6.0"
-
-[rocks_lazy]
-import = "plugins"
-
 # List of Neovim plugins to install alongside their versions.
 # If the plugin name contains a dot then you must add quotes to the key name!
 [plugins]
